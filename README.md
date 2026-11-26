@@ -1,6 +1,6 @@
 # Maze Explorer
 
-Maze Explorer is a Python desktop game made with Pygame. It creates a new 25-by-25 maze, then lets you explore it alone or race a computer-controlled agent. Collectibles, optional key requirements, hints, timers, and a short maze preview change the challenge by difficulty.
+Maze Explorer is a Python desktop game made with Pygame.
 
 This guide explains how to start the game and how its main pieces fit together. Source locations below refer to line numbers in the files as they are currently checked in; edits to those files can move the lines.
 
